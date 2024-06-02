@@ -15,7 +15,7 @@ This program focuses on demonstrating both encryption and decryption using the 0
 These values can be tweaked as desired.
 
 ## Further Reading
-For futher info on all aspects of the STS application level, check out *Let’s demystify that 20-digit utility token*:<br>
+For futher info on all aspects of the STS application level, check out **Let’s demystify that 20-digit utility token**:<br>
 [Part 1](https://mwangi-patrick.medium.com/lets-demystify-that-20-digit-utility-token-part-1-74c85eebbac4)<br>
 [Part 2](https://medium.com/codex/lets-demystify-that-20-digit-utility-token-part-2-64ca45f4b88b)<br>
-[Part 3](https://medium.com/codex/lets-demystify-that-20-digit-utility-token-part-3-d05002dbdf71)
+[Part 3](https://medium.com/codex/lets-demystify-that-20-digit-utility-token-part-3-d05002dbdf71)<br>
